@@ -10,7 +10,7 @@
     <ul class="slimmenu">
         <li><a class="sub-collapser" href="index.php">Portfolio</a></li>
         <li><a href="about.php">About</a></li>
-        <li><a class="sub-collapser" href="project.php">Project</a></li>
+        <li><a class="sub-collapser" href="digital-painting.php">Project</a></li>
         <li><a href="contact.php">Say Hello</a></li>
     </ul>
 </nav>
@@ -27,7 +27,7 @@
             <ul class="main-menu signature-adler">
                 <li><a class="main-link font3" href="index.php">Portfolio</a></li>
                 <li><a class="main-link font3" href="about.php">About</a></li>
-                <li><a class="main-link font3" href="project.php">Project</a></li>
+                <li><a class="main-link font3" href="digital-painting.php">Project</a></li>
                 <li><a class="main-link font3" href="contact.php">Say Hello</a></li>
             </ul>
         </nav>

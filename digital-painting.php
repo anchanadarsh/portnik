@@ -18,7 +18,7 @@
         <section class="mastwrap signature-adler">
 
             <section class="project-title signature-adler white-bg pad-top-quarter pad-bottom-quarter pad-left-quarter">
-                <h1 class="font3bold black">Project With Slider<span class="font3light dark">Category Name</span></h1>
+                <h1 class="font3bold black">Illustrations<span class="font3light dark">Digital Painting</span></h1>
             </section>
             <section class="first-fold signature-adler fullheight">
 
@@ -44,6 +44,7 @@
                 </section>
 
             </section>
+<!--
             <div class="inner-wrap">
 
                 <section class="hero-text signature-adler">
@@ -76,7 +77,6 @@
 
 
             </div>
-            <!-- end : inner-wrap -->
             <section class="project-images signature-adler">
                 <div class="container-fluid">
                     <div class="row">
@@ -91,6 +91,7 @@
                     </div>
                 </div>
             </section>
+-->
             <section class="project-nav signature-adler silver-bg">
                 <div class="container-fluid">
                     <div class="row">
