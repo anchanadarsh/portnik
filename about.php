@@ -18,8 +18,8 @@
 
             <section class="first-fold signature-adler fullheight about-bg parallax" data-stellar-background-ratio="0.5">
                 <section class="main-heading fixed-bottom">
-                    <h1 class="white font3bold">About</h1>
-                    <h6 class="white font3light">Welcome to our creative design studio</h6>
+                    <h1 class="font3bold">Know me</h1>
+                    <h6 class="font3light">Little bit of this and little bit of that</h6>
                     <div class="liner color-bg"></div>
                 </section>
             </section>
@@ -29,16 +29,22 @@
                 <section class="hero-text signature-adler">
                     <div class="row">
                         <article class="col-md-6">
-                            <h3 class="black font3bold">We love good design and clean coding</h3>
+                            <h3 class="black font3bold">HI! I AM NIKHIL SAINI</h3>
                             <div class="liner-small color-bg"></div>
-                            <h6 class="grey font3bold">That is Our Principle</h6>
+                            <h6 class="grey font3bold">Graphic Design 
+                                <span style="color:#333">|</span> Animation
+                                <span style="color:#333">|</span> Illustration
+                                <span style="color:#333">|</span> 3D Modelling
+                                <span style="color:#333">|</span> Photography</h6>
                         </article>
                         <article class="col-md-6">
-                            <p class="grey">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            <p class="grey">Based in Mumbai, India. I pride myself in being a versatile doer in the fields of animation, illustration, graphic designing, 3D modeling and many more.
                                 <br/>
-                                <br/>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                <br/> It doesn’t stop here and continues with my knack for successfully accomplishing photography assignments and continuously developing new ideas/products.
                                 <br/>
-                                <br/>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <br/>I am constantly on the move seduced by the creativity worm in me – my passion is my work.
+                                <br/>
+                                <br/>My mantra for work is based on a simple principle – build it right, the very first time, to allow faster decision-making and longevity without complicating it with alternatives.</p>
                         </article>
                     </div>
                 </section>
@@ -76,6 +82,7 @@
                     </div>
                 </section>
 
+                <!--
                 <section class="services signature-adler add-top">
 
                     <div class="row">
@@ -145,13 +152,14 @@
 
 
                 </section>
+-->
 
 
 
                 <section class="call-to-action signature-adler add-top ">
                     <div class="row">
                         <article class="col-md-12">
-                            <h3 class="black font3bold">interested in our services?</h3>
+                            <h3 class="black font3bold">Available for freelance!</h3>
                             <div class="liner-small color-bg"></div>
                             <h6 class="grey font3bold">Let's start working</h6>
                             <a href="#" class="btn btn-signature btn-signature-adler btn-signature-color">Request Quote</a>

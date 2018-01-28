@@ -19,7 +19,7 @@
             <section class="first-fold signature-adler fullheight contact-bg parallax" data-stellar-background-ratio="0.5">
                 <section class="main-heading fixed-bottom">
                     <h1 class="white font3bold">Say Hello</h1>
-                    <h6 class="white font3light">Welcome to our creative design studio</h6>
+                    <h6 class="white font3light">Get in touch with me</h6>
                     <div class="liner color-bg"></div>
                 </section>
             </section>
@@ -29,9 +29,9 @@
                 <section class="hero-text signature-adler">
                     <div class="row">
                         <article class="col-md-6">
-                            <h5 class="black font3bold">Basic Interactive. 23D / 423. Berlin. DE</h5>
+                            <h5 class="black font3bold">+91 98671 36561 | Mumbai, India</h5>
                             <div class="liner-small color-bg"></div>
-                            <a href="#"><h6 class="grey font3bold"><span class="__cf_email__" data-cfemail="88e0ede4e4e7c8eae9fbe1eba6fce4ec">[email&#160;protected]</span></h6></a>
+                            <a href="mailto:nikimation@gmail.com"><h6 class="grey font3bold">nikimation@gmail.com</h6></a>
 
                             <ul class="team-social add-top-quarter">
                                 <li>
