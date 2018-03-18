@@ -43,163 +43,205 @@
                     <section id="works-container" class="works-container signature-adler works-masonry-container clearfix white-bg works-thumbnails-view">
 
                         <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Digital_painting/Digital-pantings-thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-dp" href="images/portfolio/illustrations/Digital_painting/Redemption.jpg">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/1_GuidelineTravels/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-1" href="images/portfolio/Gallery/1_GuidelineTravels/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Digital Painting</span></p>
+                                    <p class="valign text-center"><span class="white font3">Guideline Travels</span></p>
                                 </div>
                             </a>
                             <div style="display:none">
-                                <a class="venobox" data-gall="portfolio-gallery-dp" href="images/portfolio/illustrations/Digital_painting/catch%20me.jpg"></a>
-                                <a class="venobox" data-gall="portfolio-gallery-dp" href="images/portfolio/illustrations/Digital_painting/devil%20may%20cry.jpg"></a>
-                                <a class="venobox" data-gall="portfolio-gallery-dp" href="images/portfolio/illustrations/Digital_painting/keira%20knightley.jpg"></a>
-                                <a class="venobox" data-gall="portfolio-gallery-dp" href="images/portfolio/illustrations/Digital_painting/nothings%20original%20title.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-1" href="images/portfolio/Gallery/1_GuidelineTravels/2.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-1" href="images/portfolio/Gallery/1_GuidelineTravels/3.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-1" href="images/portfolio/Gallery/1_GuidelineTravels/artwork%20color.jpg"></a>
                             </div>
                         </div>
                         <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Typography/typography-thumbnal.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-typo" href="images/portfolio/illustrations/Typography/Good-Vibes-Only.jpg">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/2_Booksom/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-2" href="images/portfolio/Gallery/2_Booksom/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Booksom</span></p>
+                                </div>
+                            </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-2" href="images/portfolio/Gallery/2_Booksom/2.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-2" href="images/portfolio/Gallery/2_Booksom/3.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-2" href="images/portfolio/Gallery/2_Booksom/4.jpg"></a>
+                            </div>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/3_Viveria/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-3" href="images/portfolio/Gallery/3_Viveria/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Viveria</span></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/4_SelfBranding/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-4" href="images/portfolio/Gallery/4_SelfBranding/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Self Branding</span></p>
+                                </div>
+                            </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-4" href="images/portfolio/Gallery/4_SelfBranding/2.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-4" href="images/portfolio/Gallery/4_SelfBranding/3.jpg"></a>
+                            </div>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/5_ThePrintCompany/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-5" href="images/portfolio/Gallery/5_ThePrintCompany/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">The Print Company</span></p>
+                                </div>
+                            </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-5" href="images/portfolio/Gallery/5_ThePrintCompany/2.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-5" href="images/portfolio/Gallery/5_ThePrintCompany/3.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-5" href="images/portfolio/Gallery/5_ThePrintCompany/4.jpg"></a>
+                            </div>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/6_Logos/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-6" href="images/portfolio/Gallery/6_Logos/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Logos</span></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/7_Typography/typography-thumbnal.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-7" href="images/portfolio/Gallery/7_Typography/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
                                     <p class="valign text-center"><span class="white font3">Typography</span></p>
                                 </div>
                             </a>
                             <div style="display:none">
-                                <a class="venobox" data-gall="portfolio-gallery-typo" href="images/portfolio/illustrations/Typography/It's-The-Little-Things.jpg"></a>
-                                <a class="venobox" data-gall="portfolio-gallery-typo" href="images/portfolio/illustrations/Typography/Let's-Get-Started.jpg"></a>
-                                <a class="venobox" data-gall="portfolio-gallery-typo" href="images/portfolio/illustrations/Typography/Success.jpg"></a>
-                                <a class="venobox" data-gall="portfolio-gallery-typo" href="images/portfolio/illustrations/Typography/Swagpur-Ka-Chaudhary.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-7" href="images/portfolio/Gallery/7_Typography/2.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-7" href="images/portfolio/Gallery/7_Typography/3.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-7" href="images/portfolio/Gallery/7_Typography/4.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-7" href="images/portfolio/Gallery/7_Typography/5.jpg"></a>
                             </div>
                         </div>
                         <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/CG%20Global%20Wall%20Art_thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/CG%20Global%20Wall%20Art.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">CG Global Wall Art</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Game%20of%20thrones%20Playing%20Cards.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/Game%20of%20thrones%20Playing%20Cards.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Game Of Thrones Playing Card</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Ganpati%20Festival_Thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/Ganpati%20Festival.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Ganpati Festival</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/CG%20Global%20Wall%20Art_thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/CG%20Global%20Wall%20Art.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">CG Global Wall Art</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/heroes.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/heroes.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Heroes</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Sabnis%20Wall%20Mural.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/Sabnis%20Wall%20Mural.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Sabnis Wall Mural</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Travel_Poster.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/Travel_Poster.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Travel Poster</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Tshirt%20design_thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/Tshirt%20design.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">T-Shirt Design</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Tshirt_design_thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/Tshirt_design.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">T-Shirt Design</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/Wall%20Mural.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/Wall%20Mural.jpg">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/8_WallMurals/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-8" href="images/portfolio/Gallery/8_WallMurals/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
                                     <p class="valign text-center"><span class="white font3">Wall Mural</span></p>
                                 </div>
                             </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-8" href="images/portfolio/Gallery/8_WallMurals/2.jpg"></a>
+                            </div>
                         </div>
                         <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/illustrations/What's%20G.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-illus" href="images/portfolio/illustrations/What's%20G.jpg">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/9_Ganpati_Illustrations/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-9" href="images/portfolio/Gallery/9_Ganpati_Illustrations/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Ganpati Illustrations</span></p>
+                                </div>
+                            </a>
+
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/10_Frustick/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-10" href="images/portfolio/Gallery/10_Frustick/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Frustick</span></p>
+                                </div>
+                            </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-10" href="images/portfolio/Gallery/10_Frustick/2.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-10" href="images/portfolio/Gallery/10_Frustick/3.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-10" href="images/portfolio/Gallery/10_Frustick/4.jpg"></a>
+                            </div>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/11_DigitalPaintings/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-11" href="images/portfolio/Gallery/11_DigitalPaintings/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Digital Paintings</span></p>
+                                </div>
+                            </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-11" href="images/portfolio/Gallery/11_DigitalPaintings/2.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-11" href="images/portfolio/Gallery/11_DigitalPaintings/3.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-11" href="images/portfolio/Gallery/11_DigitalPaintings/4.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-11" href="images/portfolio/Gallery/11_DigitalPaintings/5.jpg"></a>
+                            </div>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/12_AsianStarAnnualReport/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-12" href="images/portfolio/Gallery/12_AsianStarAnnualReport/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Asian Star Annual Report</span></p>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/13_GOT_Playing_Cards/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-13" href="images/portfolio/Gallery/13_GOT_Playing_Cards/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">GOT Playing Cards</span></p>
+                                </div>
+                            </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-13" href="images/portfolio/Gallery/13_GOT_Playing_Cards/2.jpg"></a>
+                                <a class="venobox" data-gall="portfolio-gallery-13" href="images/portfolio/Gallery/13_GOT_Playing_Cards/3.jpg"></a>
+                            </div>
+                        </div>
+
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/14_C4E_Branding/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-14" href="images/portfolio/Gallery/14_C4E_Branding/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">C4E Branding</span></p>
+                                </div>
+                            </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-14" href="images/portfolio/Gallery/14_C4E_Branding/2.jpg"></a>
+                            </div>
+                        </div>
+
+
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/15_Giftdedo.com/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-15" href="images/portfolio/Gallery/15_Giftdedo.com/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Giftdedo.com</span></p>
+                                </div>
+                            </a>
+                            <div style="display:none">
+                                <a class="venobox" data-gall="portfolio-gallery-15" href="images/portfolio/Gallery/15_Giftdedo.com/2.jpg"></a>
+                            </div>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/16_Horizon/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-16" href="images/portfolio/Gallery/16_Horizon/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Horizon</span></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/17_Laundrize/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-17" href="images/portfolio/Gallery/17_Laundrize/1.jpg">
+                                <div class="works-item-inner ImageOverlayHe">
+                                    <p class="valign text-center"><span class="white font3">Laundrize</span></p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/18_What'sG/thumbnail.jpg" />
+                            <a class="venobox" data-gall="portfolio-gallery-graphics" href="images/portfolio/Gallery/18_What'sG/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
                                     <p class="valign text-center"><span class="white font3">What's G</span></p>
                                 </div>
                             </a>
                         </div>
 
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/graphics/Asian%20Star%20Annual%20report_thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-graphics" href="images/portfolio/graphics/Asian%20Star%20Annual%20report.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Asian Star Annual Reports</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/graphics/Asian%20Star_Annual%20Report_thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-graphics" href="images/portfolio/graphics/Asian%20Star_Annual%20Report.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Asian Star Annual Reports</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/graphics/CG%20Global%20Billboard.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-graphics" href="images/portfolio/graphics/CG%20Global%20Billboard.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">CG Global Billboard</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/graphics/Horizon%20Brochure_Thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-graphics" href="images/portfolio/graphics/Horizon%20Brochure.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Horizon Brochure</span></p>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
-                            <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/graphics/Viveria%20Brochure_Thumbnail.jpg" />
-                            <a class="venobox" data-gall="portfolio-gallery-graphics" href="images/portfolio/graphics/Viveria%20Brochure.jpg">
-                                <div class="works-item-inner ImageOverlayHe">
-                                    <p class="valign text-center"><span class="white font3">Viveria Brochure</span></p>
-                                </div>
-                            </a>
-                        </div>
-
+                        <!--
                         <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom branding">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/branding/Logos_thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-branding" href="images/portfolio/branding/Logos.jpg">
@@ -250,6 +292,7 @@
                                 </div>
                             </a>
                         </div>
+-->
 
                     </section>
                     <!-- end : works-container -->
