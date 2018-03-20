@@ -178,7 +178,6 @@
                                 </div>
                             </a>
                         </div>
-
                         <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/13_GOT_Playing_Cards/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-13" href="images/portfolio/Gallery/13_GOT_Playing_Cards/1.jpg">
@@ -191,7 +190,6 @@
                                 <a class="venobox" data-gall="portfolio-gallery-13" href="images/portfolio/Gallery/13_GOT_Playing_Cards/3.jpg"></a>
                             </div>
                         </div>
-
                         <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/14_C4E_Branding/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-14" href="images/portfolio/Gallery/14_C4E_Branding/1.jpg">
@@ -203,8 +201,6 @@
                                 <a class="venobox" data-gall="portfolio-gallery-14" href="images/portfolio/Gallery/14_C4E_Branding/2.jpg"></a>
                             </div>
                         </div>
-
-
                         <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/15_Giftdedo.com/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-15" href="images/portfolio/Gallery/15_Giftdedo.com/1.jpg">
