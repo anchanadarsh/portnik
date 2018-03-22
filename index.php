@@ -30,10 +30,10 @@
                                 <ul class="works-filter signature-adler text-left clearfix font3">
                                     <li><a id="all" href="#" data-filter="*" class="active"><span>All</span></a></li>
                                     <li><a href="#" data-filter=".branding"><span>Branding</span></a></li>
-                                    <li><a href="#" data-filter=".graphics"><span>Graphics</span></a></li>
+                                    <li><a href="#" data-filter=".print"><span>Prints</span></a></li>
                                     <li><a href="#" data-filter=".illustration"><span>Illustration</span></a></li>
-                                    <li><a href="#" data-filter=".animation"><span>Animation</span></a></li>
-                                    <li><a href="#" data-filter=".3d"><span>3D</span></a></li>
+                                    <li><a href="#" data-filter=".website"><span>Website</span></a></li>
+<!--                                    <li><a href="#" data-filter=".3d"><span>3D</span></a></li>-->
                                 </ul>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
 
                     <section id="works-container" class="works-container signature-adler works-masonry-container clearfix white-bg works-thumbnails-view">
 
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom print illustration">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/1_GuidelineTravels/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-1" href="images/portfolio/Gallery/1_GuidelineTravels/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -55,7 +55,7 @@
                                 <a class="venobox" data-gall="portfolio-gallery-1" href="images/portfolio/Gallery/1_GuidelineTravels/artwork%20color.jpg"></a>
                             </div>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom branding">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/2_Booksom/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-2" href="images/portfolio/Gallery/2_Booksom/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -68,7 +68,7 @@
                                 <a class="venobox" data-gall="portfolio-gallery-2" href="images/portfolio/Gallery/2_Booksom/4.jpg"></a>
                             </div>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom print">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/3_Viveria/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-3" href="images/portfolio/Gallery/3_Viveria/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -76,7 +76,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom branding">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/4_SelfBranding/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-4" href="images/portfolio/Gallery/4_SelfBranding/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -88,7 +88,7 @@
                                 <a class="venobox" data-gall="portfolio-gallery-4" href="images/portfolio/Gallery/4_SelfBranding/3.jpg"></a>
                             </div>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom branding">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/5_ThePrintCompany/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-5" href="images/portfolio/Gallery/5_ThePrintCompany/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -101,7 +101,7 @@
                                 <a class="venobox" data-gall="portfolio-gallery-5" href="images/portfolio/Gallery/5_ThePrintCompany/4.jpg"></a>
                             </div>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom branding">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/6_Logos/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-6" href="images/portfolio/Gallery/6_Logos/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -143,7 +143,7 @@
                             </a>
 
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom branding">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/10_Frustick/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-10" href="images/portfolio/Gallery/10_Frustick/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -170,7 +170,7 @@
                                 <a class="venobox" data-gall="portfolio-gallery-11" href="images/portfolio/Gallery/11_DigitalPaintings/5.jpg"></a>
                             </div>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom print">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/12_AsianStarAnnualReport/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-12" href="images/portfolio/Gallery/12_AsianStarAnnualReport/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -178,7 +178,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/13_GOT_Playing_Cards/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-13" href="images/portfolio/Gallery/13_GOT_Playing_Cards/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -190,7 +190,7 @@
                                 <a class="venobox" data-gall="portfolio-gallery-13" href="images/portfolio/Gallery/13_GOT_Playing_Cards/3.jpg"></a>
                             </div>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom branding">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/14_C4E_Branding/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-14" href="images/portfolio/Gallery/14_C4E_Branding/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -201,7 +201,7 @@
                                 <a class="venobox" data-gall="portfolio-gallery-14" href="images/portfolio/Gallery/14_C4E_Branding/2.jpg"></a>
                             </div>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom website">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/15_Giftdedo.com/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-15" href="images/portfolio/Gallery/15_Giftdedo.com/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -212,7 +212,7 @@
                                 <a class="venobox" data-gall="portfolio-gallery-15" href="images/portfolio/Gallery/15_Giftdedo.com/2.jpg"></a>
                             </div>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom print">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/16_Horizon/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-16" href="images/portfolio/Gallery/16_Horizon/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -220,7 +220,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom branding">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/17_Laundrize/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-17" href="images/portfolio/Gallery/17_Laundrize/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
@@ -228,7 +228,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom graphics">
+                        <div class="works-item signature-adler ImageWrapper works-item-one-third-spaced zoom illustration">
                             <img data-no-retina alt="" title="" class="img-responsive" src="images/portfolio/Gallery/18_What'sG/thumbnail.jpg" />
                             <a class="venobox" data-gall="portfolio-gallery-graphics" href="images/portfolio/Gallery/18_What'sG/1.jpg">
                                 <div class="works-item-inner ImageOverlayHe">
