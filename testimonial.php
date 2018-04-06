@@ -28,10 +28,87 @@
 
             <section class="hero-text signature-adler">
                 <div class="row">
-                    <article class="col-md-6">
-                        
-                    </article>
-                    <article class="col-md-6">
+                    <article class="col-md-12">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <div class="testimonial-box">
+                                    <div class="test_quote">
+                                        <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="test_content">
+                                        <p>In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).</p>
+                                    </div>
+                                    <div class="test_name">
+                                        <p>Adarsh Anchan<span>Web Developer</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <div class="testimonial-box">
+                                    <div class="test_quote">
+                                        <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="test_content">
+                                        <p>In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).</p>
+                                    </div>
+                                    <div class="test_name">
+                                        <p>Adarsh Anchan<span>Web Developer</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <div class="testimonial-box">
+                                    <div class="test_quote">
+                                        <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="test_content">
+                                        <p>In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).</p>
+                                    </div>
+                                    <div class="test_name">
+                                        <p>Adarsh Anchan<span>Web Developer</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <div class="testimonial-box">
+                                    <div class="test_quote">
+                                        <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="test_content">
+                                        <p>In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).</p>
+                                    </div>
+                                    <div class="test_name">
+                                        <p>Adarsh Anchan<span>Web Developer</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <div class="testimonial-box">
+                                    <div class="test_quote">
+                                        <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="test_content">
+                                        <p>In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).</p>
+                                    </div>
+                                    <div class="test_name">
+                                        <p>Adarsh Anchan<span>Web Developer</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <div class="testimonial-box">
+                                    <div class="test_quote">
+                                        <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="test_content">
+                                        <p>In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking).</p>
+                                    </div>
+                                    <div class="test_name">
+                                        <p>Adarsh Anchan<span>Web Developer</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                     </article>
                 </div>
